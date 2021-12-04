@@ -1,0 +1,1 @@
+This is the first time doing [Advent of Code](https://adventofcode.com).
